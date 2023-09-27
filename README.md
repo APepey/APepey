@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am currently learning Data Science at Le Wagon, in Barcelona.
 
 <!--
 **APepey/APepey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
