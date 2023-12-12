@@ -1,9 +1,8 @@
-**
 <p align ="center">
 Hi, I'm Anais 👋
 PhD - Data Scientist
 </p>
-**
+
 
 🔥 Looking to collaborate on data authenticity, climate change modelling or epidemiology open-source projects! 🔥
 
