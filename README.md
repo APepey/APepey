@@ -7,11 +7,11 @@
 
 ## Education
 **Data Science & AI Bootcamp | 2023**  
-@ Le Wagon, Barcelona  
+@ Le Wagon, Barcelona, Spain  
   
 **PhD in Health Ecology | 2018 - 2022**  
 @ Pasteur Institute, Phnom Penh, Cambodia  
-@ University of Montpellier 
+@ University of Montpellier, France  
 
 
 ## Languages and tools
