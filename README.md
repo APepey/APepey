@@ -1,8 +1,9 @@
-<p style ="text-align: center;">
-  # Hi, I'm Anais 👋
+<p align ="center">
+# Hi, I'm Anais 👋
 # PhD - Data Scientist
 </p>
 
+🔥 Looking to collaborate on data authenticity, climate change modelling or epidemiology open-source projects! 🔥
 
 ## Education
 ### Data Science & AI Bootcamp | 2023
@@ -10,8 +11,6 @@
 ### PhD in Health Ecology | 2018 - 2022
 @ Pasteur Institute, Phnom Penh, Cambodia 
 @ University of Montpellier
-
-🔥 Looking to collaborate on data authenticity, climate change modelling or epidemiology open-source projects! 🔥
 
 ## Languages and tools
 - [Python](https://www.python.org/), [R](https://www.r-project.org/)
