@@ -14,8 +14,8 @@
 🔥 Looking to collaborate on data authenticity, climate change modelling or epidemiology open-source projects! 🔥
 
 ## Languages and tools
-[Python](https://www.python.org/) & [R](https://www.r-project.org/) 
-[Scikit Learn](https://scikit-learn.org/stable/index.html), [TensorFlow](https://www.tensorflow.org/), [Docker](https://www.docker.com/), [GCP](https://console.cloud.google.com/), [FastAPI](https://fastapi.tiangolo.com/)...
+- [Python](https://www.python.org/), [R](https://www.r-project.org/)
+- [Scikit Learn](https://scikit-learn.org/stable/index.html), [TensorFlow](https://www.tensorflow.org/), [Docker](https://www.docker.com/), [GCP](https://console.cloud.google.com/), [FastAPI](https://fastapi.tiangolo.com/)...
 
 ## What's new
 - 🥼 Improving my latest project [PseudoProof](https://pseudoproof.streamlit.app/) detecting fabricated entries in datasets using machine learning & AI
