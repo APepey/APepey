@@ -1,5 +1,5 @@
 <p align ="center">
-Hi, I'm Anais 👋__
+Hi, I'm Anais 👋  
 PhD - Data Scientist
 </p>
 
