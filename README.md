@@ -21,7 +21,7 @@
 
 ## What's new
 - 🥼 Improving my latest project [PseudoProof](https://pseudoproof.streamlit.app/) detecting fabricated entries in datasets using machine learning & AI
-- 💻 Learning **JAX **
+- 💻 Learning **JAX**
 
 
 ## About me
