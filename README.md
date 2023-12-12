@@ -10,7 +10,7 @@
 @ Le Wagon, Barcelona  
   
 **PhD in Health Ecology | 2018 - 2022**  
-@ Pasteur Institute, Phnom Penh, Cambodia </brk>
+@ Pasteur Institute, Phnom Penh, Cambodia  
 @ University of Montpellier 
 
 
