@@ -7,12 +7,21 @@
 ### Data Science & AI Bootcamp | 2023
 @ Le Wagon, Barcelona 
 ### PhD in Health Ecology | 2018 - 2022
-@ Pasteur Institute, Phnom Penh, Cambodia 
+@ Pasteur Institute, Phnom Penh, Cambodia </brk>
 @ University of Montpellier
 
 ## Languages and tools
-- [Python](https://www.python.org/), [R](https://www.r-project.org/)
-- [Scikit Learn](https://scikit-learn.org/stable/index.html), [TensorFlow](https://www.tensorflow.org/), [Docker](https://www.docker.com/), [GCP](https://console.cloud.google.com/), [FastAPI](https://fastapi.tiangolo.com/)...
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+   <a href="https://r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="python" width="40" height="40"/> </a>
+  
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ## What's new
 - 🥼 Improving my latest project [PseudoProof](https://pseudoproof.streamlit.app/) detecting fabricated entries in datasets using machine learning & AI
