@@ -2,7 +2,7 @@
 <h3 align="center">PhD - Data Scientist </h3>  
 
 🔥 Looking to collaborate on data authenticity, climate change modelling or epidemiology open-source projects! 🔥 <br>
-  
+<br>
 
 ## Education
 ### Data Science & AI Bootcamp | 2023
