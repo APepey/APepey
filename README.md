@@ -1,5 +1,7 @@
-<p style ="text-align: center;"># Hi, I'm Anais 👋
-# PhD - Data Scientist</p>
+<p style ="text-align: center;">
+  # Hi, I'm Anais 👋
+# PhD - Data Scientist
+</p>
 
 
 ## Education
