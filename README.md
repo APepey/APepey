@@ -10,9 +10,7 @@
 ### PhD in Health Ecology | 2018 - 2022
 @ Pasteur Institute, Phnom Penh, Cambodia </brk>
 @ University of Montpellier  
-  
-## Contact me
-- https://www.linkedin.com/in/apepey](https://www.linkedin.com/in/apepey/)
+\
   
 ## Languages and tools
 
