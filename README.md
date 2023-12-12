@@ -1,5 +1,5 @@
-<h2 align="center">Hi, I'm Anais 👋<h2/>
-<h2 align="center">PhD - Data Scientist </h2>
+<h2 align="center">Hi, I'm Anais!<h2/>
+<h2 align="center">PhD | Data Scientist </h2>
 
 🔥 Looking to collaborate on data authenticity, climate change modelling or epidemiology open-source projects! 🔥
 
@@ -21,7 +21,7 @@
 
 ## What's new
 - 🥼 Improving my latest project [PseudoProof](https://pseudoproof.streamlit.app/) detecting fabricated entries in datasets using machine learning & AI
-- 💻 Learning JAX 
+- 💻 Learning **JAX **
 
 ## About me
 - 📍 Barcelona, Spain
