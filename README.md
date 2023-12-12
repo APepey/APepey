@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Anais!</h2>
-<h2 align="center">PhD | Data Scientist </h2>
+<h2 align="center">PhD - Data Scientist </h2>
 
 🔥 Looking to collaborate on data authenticity, climate change modelling or epidemiology open-source projects! 🔥
 
