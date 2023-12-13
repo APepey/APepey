@@ -30,6 +30,7 @@
 - 📍 Barcelona, Spain
 - 🌏 Grew up in France, been living my adult life abroad between Asia and Europe
 - 🧬 Ask me about biology and data confidentiality
+- 👩🏻‍🔬 More info available on my [portfolio](https://apepey.notion.site/apepey/Ana-s-Pepey-PhD-Data-Science-5086e0b7c889490abfa67625339825f8)!
 
 <!--
 **APepey/APepey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
