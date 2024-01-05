@@ -5,8 +5,7 @@
 <h4 align="center">🔥 Looking to collaborate on data authenticity, climate change modelling or epidemiology open-source projects! 🔥</h4>
 
 ## Contact me
-- by [email](ana.pepey@posteo.net)
-- on [LinkedIn](https://www.linkedin.com/in/apepey/)
+By [email](ana.pepey@posteo.net) or on [LinkedIn](https://www.linkedin.com/in/apepey/)
 
 ## Education
 **Data Science & AI Bootcamp | 2023**  
