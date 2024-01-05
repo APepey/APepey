@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Anais!</h2>
+<h2 align="center">Hi, I'm Anaïs!</h2>
 <h3 align="center">PhD - Data Scientist </h3>  
 
   
