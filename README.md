@@ -2,8 +2,11 @@
 <h3 align="center">PhD - Data Scientist </h3>  
 
   
-<h3 align="center">🔥 Looking to collaborate on data authenticity, climate change modelling or epidemiology open-source projects! 🔥</h3>
+<h4 align="center">🔥 Looking to collaborate on data authenticity, climate change modelling or epidemiology open-source projects! 🔥</h4>
 
+## Contact me
+- by [email](ana.pepey@posteo.net)
+- on [LinkedIn](https://www.linkedin.com/in/apepey/)
 
 ## Education
 **Data Science & AI Bootcamp | 2023**  
