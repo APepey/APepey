@@ -4,7 +4,7 @@
   
 <h4 align="center">🔥 Looking to collaborate on data authenticity, climate change modelling or epidemiology open-source projects! 🔥</h4>
 
-## Contact me
+## Contact
 By [email](mailto:ana.pepey@posteo.net) or on [LinkedIn](https://www.linkedin.com/in/apepey/)
 
 ## What's new
