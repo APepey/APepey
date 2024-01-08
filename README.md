@@ -8,7 +8,7 @@
 By [email](mailto:ana.pepey@posteo.net) or on [LinkedIn](https://www.linkedin.com/in/apepey/)
 
 ## What's new
-- 🥼 Improving my latest project [PseudoProof](https://pseudoproof.streamlit.app/) detecting fabricated entries in datasets using machine learning & AI
+- 🥼 Improving my latest project [PseudoProof](https://pseudoproof.streamlit.app/) for the detection of fabricated entries in datasets using machine learning & AI
 - 💻 Learning **JAX**
 
 ## Languages and tools
