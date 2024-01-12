@@ -8,7 +8,7 @@
 By [email](mailto:ana.pepey@posteo.net) or on [LinkedIn](https://www.linkedin.com/in/apepey/)
 
 ## What's new
-- 🥼 Taking Unity's course [Create with Code](https://learn.unity.com/course/create-with-code?signup=true)
+- 🥼 Taking Unity's course [Create with Code](https://learn.unity.com/course/create-with-code?signup=true), learning C#
 - 💻 Learning a bit about **JAX**
 
 ## Languages and tools
