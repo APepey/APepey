@@ -1,12 +1,15 @@
 <h2 align="center">Hi, I'm Anaïs!</h2>
-<h3 align="center">PhD - Data Scientist </h3>  
+<!--
+<h3 align="center">PhD - Data Scientist </h3>
+What's new
+Currently taking Unity's course [Create with Code](https://learn.unity.com/course/create-with-code?signup=true) with C#
+-->
 
+Currently working as a Data Scientist @ One Solar, Barcelona
 
 ## Contact
 By [email](mailto:ana.pepey@posteo.net) or on [LinkedIn](https://www.linkedin.com/in/apepey/)
 
-## What's new
-Currently taking Unity's course [Create with Code](https://learn.unity.com/course/create-with-code?signup=true) with C#
 
 ## Languages and tools
 
