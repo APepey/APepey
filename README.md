@@ -5,7 +5,7 @@ What's new
 Currently taking Unity's course [Create with Code](https://learn.unity.com/course/create-with-code?signup=true) with C#
 -->
 
-Currently working as a Data Scientist @ One Solar, Barcelona
+<p align="center"> I am currently working as a Data Scientist @ One Solar, Barcelona
 
 ## Contact
 By [email](mailto:ana.pepey@posteo.net) or on [LinkedIn](https://www.linkedin.com/in/apepey/)
