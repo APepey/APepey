@@ -6,7 +6,7 @@ Currently taking Unity's course [Create with Code](https://learn.unity.com/cours
 -->
 
 <p align="center"> Data Scientist @ <a href="https://onesolar.energy">One Solar</a> </p>
-<p align="center"> Volunteer @ <a href="https://techfems.org">TechFems</a> </p>
+<p align="center"> Volunteer & Coach @ <a href="https://techfems.org">TechFems</a> </p>
 
 ## Contact
 By [email](mailto:ana.pepey@posteo.net) or on [LinkedIn](https://www.linkedin.com/in/apepey/)
