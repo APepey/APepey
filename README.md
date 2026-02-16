@@ -4,13 +4,12 @@
 What's new
 Currently taking Unity's course [Create with Code](https://learn.unity.com/course/create-with-code?signup=true) with C#
 -->
-
-<p align="center"> Data Scientist @ <a href="https://onesolar.energy">One Solar</a> </p>
-<p align="center"> Volunteer & Coach @ <a href="https://techfems.org">TechFems</a> </p>
+Research, workshops, and ideas: explore my <a href="https://apepey.notion.site/Portfolio-Ana-s-Pepey-PhD-5086e0b7c889490abfa67625339825f8?pvs=74">portfolio</a> to see what I’ve been up to.
 
 ## Contact
 By [email](mailto:ana.pepey@posteo.net) or on [LinkedIn](https://www.linkedin.com/in/apepey/)
 
+<!--
 ## Languages and tools
 
 
@@ -41,18 +40,17 @@ By [email](mailto:ana.pepey@posteo.net) or on [LinkedIn](https://www.linkedin.co
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
-
+-->
 ## Education
-**Data Science & AI Bootcamp | 2023**  
-Le Wagon, Barcelona, Spain  
-  
 **PhD in Health Ecology | 2018 - 2022**  
 Pasteur Institute, Phnom Penh, Cambodia  
 University of Montpellier, France  
 
-## About me
-- 📍 Barcelona, Spain
-- 🌏 Grew up in France, been living my adult life abroad between Asia and Europe
-- 🧬 Ask me about biology and data confidentiality
-- 👩🏻‍🔬 More info available on my <a href="https://apepey.notion.site/apepey/Ana-s-Pepey-PhD-Data-Science-5086e0b7c889490abfa67625339825f8" target="_blank">portfolio</a>!
+**MSc in Emergence of Parasitic and Infectious Diseases | 2016-2018**  
+University of Montpellier, France   
+Universitas Gadjah Mada, Indonesia
 
+## About me
+- 📍 Based in Barcelona, Spain
+- 🌏 Grew up in France, been living my adult life abroad between South-East Asia and Western Europe
+- 🧬 Ask me about biology and data confidentiality
